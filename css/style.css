@@ -1499,3 +1499,13 @@ li > .menu__container > .grid__controling .control_center--grid {
   font-weight: 500;
   color: #333;
 }
+.name
+{
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+  position: absolute;
+  top: 80px;
+  left: 50px;
+  
+}
