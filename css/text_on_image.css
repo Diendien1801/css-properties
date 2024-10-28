@@ -1,0 +1,17 @@
+.text-block
+{
+    color: white; 
+    font-size: 40px;
+    position: absolute;
+    top: 50%; 
+    width: 100%;
+    
+    text-align: center;
+       
+    
+}
+
+.container
+{
+    position: relative;
+}
